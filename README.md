@@ -31,7 +31,7 @@ pip install --user google-api-python-client pandas
 ```
 ---
 
-## 4) Run ETL (API -> SQLite
+## 4) Run ETL (API -> SQLite)
 
 This script(etl_public_youtube.py) pulls public channel info, recent videos, and per-video stats, then upserts into youtube.db
 

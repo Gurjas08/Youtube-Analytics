@@ -70,7 +70,7 @@ After creating this we can go ahead and build the visuals that we wish to (check
 
 ## 🏁 Conclusion & Next Steps
 
-This project demonstrates a complete **data pipeline** — from API extraction and database storage to analytics and visualization — all using **Python, SQLite, and Power BI**.  
+This project demonstrates a complete **data pipeline** - from API extraction and database storage to analytics and visualization - all using **Python, SQLite, and Power BI**.  
 It showcases how public YouTube data can be transformed into actionable insights through clean ETL design and interactive reporting.
 
 ---
@@ -87,10 +87,10 @@ It showcases how public YouTube data can be transformed into actionable insights
 
 ### 🚀 Future Improvements
 If you want to extend this project, here are some ideas:
-1. **Add time-series tracking** — run the ETL daily to monitor view growth and cumulative metrics.  
-2. **Include more channels** — compare performance across multiple creators using joins on `channel_id`.  
-3. **Deploy to Power BI Service** — schedule automatic refreshes and share live dashboards online.  
-4. **Enhance analytics** — add regression or correlation scripts in Python to analyze content-type impact on engagement.  
-5. **Integrate Power BI parameters** — let users dynamically filter channels or time periods from the report UI.
+1. **Add time-series tracking** - run the ETL daily to monitor view growth and cumulative metrics.  
+2. **Include more channels** - compare performance across multiple creators using joins on `channel_id`.  
+3. **Deploy to Power BI Service** - schedule automatic refreshes and share live dashboards online.  
+4. **Enhance analytics** - add regression or correlation scripts in Python to analyze content-type impact on engagement.  
+5. **Integrate Power BI parameters** - let users dynamically filter channels or time periods from the report UI.
 
 ---
